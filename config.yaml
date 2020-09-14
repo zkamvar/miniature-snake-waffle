@@ -30,3 +30,16 @@ contact: team@carpentries.org
 
 # Rearrange this schedule to match your lesson
 schedule: 
+- 01-intro.Rmd
+- 02-numpy.Rmd
+- 03-matplotlib.Rmd
+- 04-loop.Rmd
+- 05-lists.Rmd
+- 06-files.Rmd
+- 07-cond.Rmd
+- 08-func.Rmd
+- 09-errors.Rmd
+- 10-defensive.Rmd
+- 11-debugging.Rmd
+- 12-cmdline.Rmd
+
